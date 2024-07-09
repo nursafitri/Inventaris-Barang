@@ -1,0 +1,25 @@
+.sidebar{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 48px 0 0;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 14rem;
+    z-index: 100;
+    padding: 0 337px 0;
+}
+
+.container-fluid{
+    top: 0;
+    bottom: 0;
+    left: 100rem;
+    z-index: 100;
+    padding: 0 0 0;
+}
